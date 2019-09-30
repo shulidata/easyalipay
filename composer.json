@@ -1,4 +1,13 @@
 {
+    "name": "shulidata/easyaliapy",
+    "description": "支付宝SDK",
+    "keywords": [
+        "alipay",
+        "easyaliapy",
+        "alipay-sdk",
+        "sdk"
+    ],
+    "license": "MIT",
     "require": {
         "php": ">=7.0",
         "ext-fileinfo": "*",
@@ -12,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "EasyAlipay\\": "sdk/src/"
+            "EasyAlipay\\": "src/"
         }
     },
     "autoload-dev": {
