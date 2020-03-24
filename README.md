@@ -1,7 +1,7 @@
 ## EasyAlipay
 
 支付宝官方已经推出[Alipay Easy SDK](https://github.com/alipay/alipay-easysdk)，可以完全覆盖本SDK的功能，且支持更多编程语言。
-故本SDK将不再继续维护，欢迎前往https://github.com/alipay/alipay-easysdk使用官方Alipay Easy SDK。
+故本SDK将不再继续维护，欢迎前往 [Alipay Easy SDK](https://github.com/alipay/alipay-easysdk) 使用官方Alipay Easy SDK。
 
 
 ## 1.0.0 🎉🎉🎉
