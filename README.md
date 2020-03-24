@@ -1,6 +1,8 @@
 ## EasyAlipay
 
-EasyAlipay 是基于支付宝OpenAPI开源的PHP语言版本SDK。使用本SDK前你需要具备基础的PHP相关能力，掌握自动加载，[Composer](https://getcomposer.org/)的使用等，并了解[支付宝的相关业务](https://docs.open.alipay.com/api)。
+支付宝官方已经推出[Alipay Easy SDK](https://github.com/alipay/alipay-easysdk)，可以完全覆盖本SDK的功能，且支持更多编程语言。
+故本SDK将不再继续维护，欢迎前往https://github.com/alipay/alipay-easysdk使用官方Alipay Easy SDK。
+
 
 ## 1.0.0 🎉🎉🎉
 EsayAlipay 1.0.0 首次发布，欢迎加入下方的钉钉群一起交流，我们致力于打造一个方便开发者快速接入支付宝业务的SDK。本SDK针对通用授权、支付、小程序、生活号、营销等场景做了业务模型封装，并在持续增加中。同时对API参数做了最简单处理，以最少可用原则精简了参数，方便开发者更快的使用，降低开发者门槛。
